@@ -8,3 +8,5 @@
 Adid22/Adid22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/de5a5f95ed7e4ddb87fac190c3579322)](https://app.codacy.com/gh/Adid22/Adid22?utm_source=github.com&utm_medium=referral&utm_content=Adid22/Adid22&utm_campaign=Badge_Grade_Settings)
